@@ -5,7 +5,7 @@
 </head>
 
 <?php include 'header.php'; ?>
-<nav><?php include 'nav.php'; ?>
+<nav><?php include 'nav.php'; ?></nav>
 
 </body>
 </html>
